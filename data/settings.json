@@ -1,0 +1,18 @@
+{
+  "title": "OB 1 STUDIO",
+  "channel": "NVP S.p.A.",
+  "resolution": "1920x1080",
+  "frameRate": 25,
+  "scanMode": "Interlaced",
+  "colorSpace": "Rec.709",
+  "notes": "",
+  "logo": "",
+  "showBars": true,
+  "showTimecode": true,
+  "showFrameCounter": true,
+  "showSync": true,
+  "showCenterCircle": true,
+  "showInfoBox": true,
+  "alternateMode": false,
+  "lastUpdate": "2025-04-10T12:24:20.190Z"
+}
